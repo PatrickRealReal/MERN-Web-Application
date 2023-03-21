@@ -1,8 +1,6 @@
 {
     "compilerOptions": {
-        "baseUrl": "src"
+      "baseUrl": "src"
     },
     "include": ["src"]
 }
-
-// Help us to have absolute import from the source directory
